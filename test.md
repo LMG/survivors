@@ -1,5 +1,6 @@
 ---
 title: Test de Jekyll
+layout: post
 ---
 ### Test de Jekyll
 
