@@ -1,4 +1,4 @@
 survivors
 =========
 
-Équipe participant à la coupe de france de robotique 2014.
+Tests vaguement liés à la coupe de france de robotique.
